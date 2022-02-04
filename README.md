@@ -1,0 +1,5 @@
+- 👋 I am a mechanical engineer that after some years developing pneumatic and hydraulic automated systems found a love for programming, Data Science and Machine Learning.
+- 📚 Currently studying everything needed for Machine Learning, from Python, Pandas and scikit-learn to APIs and MLOps.
+- 🏃‍♂️ My next steps will be improve my skills related to SQL, R language, Spark and Data Mining
+- 👀 I am interested in any high tech solution, including engineering and programming fields.
+- 📞 You can reach me by my LinkedIn profile
